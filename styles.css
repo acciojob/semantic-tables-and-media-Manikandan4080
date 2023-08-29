@@ -1,2 +1,4 @@
-
+table,td,tr,th{
+	border:1px solid black;
+}
 /* Your CSS Code here. */
